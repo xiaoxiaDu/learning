@@ -13,6 +13,9 @@
 
     <modules>
         <module>sample-test</module>
+        <module>sample-open-api</module>
+        <!--<module>sample-interface</module>-->
+        <!--<module>sample-provider</module>-->
     </modules>
 
 </project>
