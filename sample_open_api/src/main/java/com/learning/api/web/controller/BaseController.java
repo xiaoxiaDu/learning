@@ -8,4 +8,9 @@ import org.springframework.stereotype.Controller;
  */
 @Controller
 public abstract class BaseController {
+  @RequestMapping("/hi")
+    public String helloWorld(HttpServletRequest request){
+        logger.info("Hello World! test 123!");
+        return "hi!";
+    }
 }
