@@ -12,10 +12,10 @@
     <name>learning</name>
 
     <modules>
-        <module>sample-test</module>
-        <module>sample-open-api</module>
-        <!--<module>sample-interface</module>-->
-        <!--<module>sample-provider</module>-->
+        <module>sample_test</module>
+        <module>sample_open_api</module>
+        <module>sample_interface</module>
+        <module>sample_provider</module>
     </modules>
 
 </project>
