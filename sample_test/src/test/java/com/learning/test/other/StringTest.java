@@ -1,6 +1,6 @@
 package com.learning.test.other;
 
-import com.learning.test.Utils.DateUtil;
+import com.learning.test.utils.DateUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Test;
 
