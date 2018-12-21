@@ -17,6 +17,7 @@
         <module>sample_interface</module>
         <module>sample_provider</module>
         <module>sample_rabbit_mp</module>
+        <module>sample_cache</module>
     </modules>
 
 </project>
